@@ -7,7 +7,7 @@ sections:
 - type: document
   path: content/posts
   label: Posts
-  match: "**/*"
+  read_only: false
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
