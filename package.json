@@ -22,7 +22,8 @@
   "keywords": [
     "gatsby",
     "sibesh.com",
-    "sibesh-blog"
+    "sibesh-blog",
+    "sibeshs-blog"
   ],
   "dependencies": {
     "bluebird": "^3.7.2",
