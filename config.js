@@ -24,6 +24,10 @@ module.exports = {
       path: '/fiction',
     },
     {
+      label: 'Comics',
+      path: '/comics',
+    },
+    {
       label: 'About me',
       path: '/pages/about',
     },
