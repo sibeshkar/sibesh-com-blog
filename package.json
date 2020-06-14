@@ -20,7 +20,9 @@
   "author": "Alexander Shelepenok <alxshelepenok@gmail.com>",
   "license": "MIT",
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "sibesh.com",
+    "sibesh-blog"
   ],
   "dependencies": {
     "bluebird": "^3.7.2",
