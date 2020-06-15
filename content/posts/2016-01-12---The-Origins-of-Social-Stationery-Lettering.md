@@ -1,12 +1,12 @@
 ---
 title: This Magic Trick Has No Secrets
-date: 2019-06-28T04:10:32+05:30
+date: 2019-06-28T04:10:32.000+05:30
 template: post
 draft: false
 slug: the-magic-trick-sans-secrets
 category:
 - Essay
-description: Ed the physicist visits a Shaman in the Himalayas.
+description: Ed the physicist visits a Shaman in the Himalayas to see a magic trick.
 socialImage: "/media/image-3.jpg"
 
 ---

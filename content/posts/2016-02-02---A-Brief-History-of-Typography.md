@@ -1,6 +1,6 @@
 ---
 title: A Robot For Every Human
-date: 2020-03-30T04:10:32+05:30
+date: 2020-03-30T04:10:32.000+05:30
 template: post
 draft: false
 slug: a-robot-for-every-human
@@ -10,7 +10,8 @@ tags:
 - Automation
 - AI
 - Domain Specific Language
-description: An alternate approach to build a general machine intelligence.
+description: 'At MayaHQ, we’re trying to build a bot that will one day replace us
+  – a general machine intelligence. Here is our angle of attack. '
 socialImage: "/media/image-0.jpg"
 
 ---

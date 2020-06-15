@@ -1,6 +1,6 @@
 ---
 title: The Unsettling Physics of Causality
-date: 2019-08-07T05:16:37+05:30
+date: 2019-08-07T05:16:37.000+05:30
 template: post
 draft: false
 slug: the-unsettling-physics-of-causality
@@ -11,7 +11,8 @@ tags:
 - Quantum Mechanics
 - Non Locality
 - Locality
-description: Bert and Bomm befuddle the Bartender.
+description: A general relativity theorist, Bert (GR) and a quantum mechanist, Bomm
+  (QM), find themselves in a bar that’s about to close down.
 socialImage: "/media/image-2.jpg"
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: The Dangerous Intuition of David Bohm
-date: 2019-09-16T04:10:32+05:30
+date: 2019-09-16T04:10:32.000+05:30
 template: post
 draft: false
 slug: the-dangerous-intuition-of-david-bohm
@@ -11,7 +11,9 @@ tags:
 - Bohmian Mechanics
 - Einstein
 - Pilot Wave
-description: A short introduction to the controversial physicist-poet.
+description: A few months before Einstein died, he wrote about an unpopular intuition
+  in physics which went against everything he considered sacred. An intuition surfaced
+  by an otherwise ostracised physicist, David Bohm.
 socialImage: "/media/42-line-bible.jpg"
 
 ---
