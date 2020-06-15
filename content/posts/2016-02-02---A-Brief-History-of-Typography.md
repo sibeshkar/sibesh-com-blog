@@ -1,54 +1,31 @@
 ---
-title: "A Brief History of Typography"
-date: "2016-02-02T22:40:32.169Z"
-template: "post"
+title: A Robot For Every Human
+date: 2020-03-30T04:10:32+05:30
+template: post
 draft: false
-slug: "a-brief-history-of-typography"
-category: "Design Inspiration"
+slug: a-robot-for-every-human
+category:
+- Essay
 tags:
-  - "Linotype"
-  - "Monotype"
-  - "History of typography"
-  - "Helvetica"
-description: "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat."
+- Automation
+- AI
+- Domain Specific Language
+description: An alternate approach to build a general machine intelligence.
 socialImage: "/media/image-0.jpg"
+
 ---
+At [Maya](http://getmaya.co/), we’re trying to build a bot that does everything for us – a general machine intelligence.
 
-**Pellentesque habitant morbi tristique** senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. *Aenean ultricies mi vitae est.* Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. 
+We think modern machine learning doesn’t yet have a way to do it. You can optimise it to do one thing well, so it can play superhuman Starcraft or Chess, but for generality, we need to go further – optimise generality itself.
 
-Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.  [Donec non enim](#) in turpis pulvinar facilisis.
+The fundamental problem with current methods is that they do less from more. Feeding a lot of initial samples makes today’s bots do one narrow skill well. We want to create a process which will help build bots to do many complex tasks by rearranging the same few primitive building blocks.
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-0.jpg)
+A good example of such a more-from-less process is the language I’m using to write this. The Oxford dictionary has just 170,000 words that have evolved over years – you can reuse them to build sentences, many sentences make a paragraph and so on. Language is important because it has the symbols we use to think.
 
-## Header Level 2
+To note, around 47,000 words from the Oxford Dictionary have become obsolete. This is because the natural dynamics of language are like that of a free-for-all marketplace – the useful words and phrases stay on, while the useless ones quickly slip out of use.
 
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
+Our intuition is that a more-from-less process to making general machine intelligence should work like language does. What would this look like ? It would have, **One**, a marketplace mechanism to reward the primitive building blocks and bots that work well and weed out the ones that don’t, **Two**, a domain specific language that encodes how primitives are arranged together and, **Three**, a way to learn this language to auto-generate new bot flows on the go
 
-Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. 
+To solve the first two problems, we built Maya. The third is something we intend to figure out along the way, but we know of which there is atleast one precedent – auto-complete for the English language. **One**, Maya is a marketplace that allows individuals & firms to make, run & sell reusable bot primitives (analogous to words) arranged to make useful bot flows (sentences), all using our cross-platform tool. **Two**, all bot flows use the Maya flow-based language to describe how different primitives are wired together. These two are hard problems on their own, but we suspect that with enough bots built using Maya and hosted on our marketplace for users to benefit from – our mission is _a bot for every human_ – we could solve problem **Three** too. This would hopefully lead to a bot that “thinks ahead” (like auto-complete does) in the Maya language to generate bot flows that completes many complex tasks by rearranging the same set of primitives from the marketplace.
 
-<figure>
-	<blockquote>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p>
-		<footer>
-			<cite>— Aliquam tincidunt mauris eu risus.</cite>
-		</footer>
-	</blockquote>
-</figure>
-
-### Header Level 3
-
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.
-
-```css
-#header h1 a {
-  display: block;
-  width: 300px;
-  height: 80px;
-}
-```
-
-Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+We still have a long way to go, but we think we have something interesting here. Stay tuned.
