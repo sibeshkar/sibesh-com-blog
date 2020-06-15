@@ -16,25 +16,13 @@ module.exports = {
       path: '/',
     },
     {
-      label: 'Essays',
-      path: '/essays',
-    },
-    {
-      label: 'Fiction',
-      path: '/fiction',
-    },
-    {
-      label: 'Comics',
-      path: '/comics',
-    },
-    {
       label: 'About me',
       path: '/pages/about',
     },
   ],
   author: {
     name: 'Sibesh Kar',
-    photo: '/uploads/blogpic.jpg',
+    photo: '/media/blogpic.jpg',
     bio:
       'Tinkerer at large. Bug fixer. Write solely to amuse myself. Also act spookily at a distance.',
     contacts: {
