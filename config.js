@@ -34,7 +34,7 @@ module.exports = {
   ],
   author: {
     name: 'Sibesh Kar',
-    photo: '/photo.jpg',
+    photo: '/uploads/blogpic.jpg',
     bio:
       'Tinkerer at large. Bug fixer. Write solely to amuse myself. Also act spookily at a distance.',
     contacts: {
