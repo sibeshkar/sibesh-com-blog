@@ -4,7 +4,7 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Lapsed physicist & prolapsed engineer. Co-founder, [Maya Robotics](https://getmaya.co). Alma maters : BITS Pilani '18, DPS RKP '14. Previously, Founder, Hyperloop India, first Indian team at the SpaceX Hyperloop competition. Currently making robots that will do my job.
+Lapsed physicist & prolapsed engineer. Co-founder, [Maya](https://getmaya.co), making robots that will one day do my job. Previously, Founder, Hyperloop India, first Indian team to build a maglev pod for the SpaceX Hyperloop competition. 
 
 Tinkerer at large. Bug fixer. Write to amuse myself. Also act spookily at a distance.
 
