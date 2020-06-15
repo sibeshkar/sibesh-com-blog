@@ -11,7 +11,7 @@ tags:
 - AI
 - Domain Specific Language
 description: 'At MayaHQ, we’re trying to build a bot that will one day replace us
-  – a general machine intelligence. Here''s our angle of attack. '
+  – a general machine intelligence. Here is our angle of attack. '
 socialImage: "/media/image-0.jpg"
 
 ---
