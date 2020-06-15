@@ -23,7 +23,8 @@
     "gatsby",
     "sibesh.com",
     "sibesh-blog",
-    "sibeshs-blog"
+    "sibeshs-blog",
+    "sibesh-blog"
   ],
   "dependencies": {
     "bluebird": "^3.7.2",
