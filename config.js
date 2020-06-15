@@ -24,7 +24,7 @@ module.exports = {
     name: 'Sibesh Kar',
     photo: '/media/blogpic.jpg',
     bio:
-      'Tinkerer at large. Bug fixer. Write solely to amuse myself. Also act spookily at a distance.',
+      'Physics, machines, code & comics.',
     contacts: {
       email: 'sibesh96@gmail.com',
       facebook: '',
