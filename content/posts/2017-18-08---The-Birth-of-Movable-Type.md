@@ -1,6 +1,6 @@
 ---
 title: The Robots Must Be Crazy
-date: 2019-11-21T03:42:03.000+05:30
+date: 2019-09-05T03:42:03+05:30
 template: post
 draft: false
 slug: the-robots-must-be-crazy
