@@ -12,7 +12,7 @@ tags:
 - Domain Specific Language
 description: 'At MayaHQ, we’re trying to build a bot that will one day replace us
   – a general machine intelligence. Here is our angle of attack. '
-socialImage: "/media/image-0.jpg"
+socialImage: "/media/escher.jpg"
 
 ---
 At [Maya](http://getmaya.co/), we’re trying to build a bot that does everything for us – a general machine intelligence.
